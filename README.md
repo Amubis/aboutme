@@ -1,3 +1,13 @@
+#TODO 
+- [x] 内容修改
+  - [x] 总之先把文本改了！
+  - [x] 然后把所有的图标全改了！
+  - [ ] 还不知道……
+- [ ] 额外加点东西
+  - [ ] 先写着，我也不知道加啥
+
+
+
 # vCard - Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
